@@ -80,6 +80,6 @@ The device security is enforced primarily with three types of device:
 - *IPS*: H or S products designed to detect intrusive activity and attempt to stop it before it reaches the target
 
 ### Trust and trustworthiness
-**Briefly explain the concepts of trust and trustworthiness:**
+**Briefly explain the concepts of trust and trustworthiness:**  
 Trust is the willingness of a party to be vulnerable to the actions of another party based on the expectations that the other will perform actions important to the truster  
 Trustworthiness is a characteristic of an entity that reflects the degree to which that entity is deserving of trust
