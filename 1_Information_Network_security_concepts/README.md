@@ -30,8 +30,6 @@ As subset of cybersecurity we can define:
 **What is the OSI security architecture?**   
 Is a *systematic approach* to define the *requirements* for security and characterizing the approaches to satisfy those requirements. It also defines:
 - *Security attack*: any action that compromises the security of information owned by an organization
-- *Security mechanism*: a process to detect, prevent or recover from a security attach 
-- *Security service*: are services intended to counter security attacks making use of one or more security mechanisms
 - *Threat*: any event with the potential to impact negatively the organization operations
 - *Attack*: any malicious activity that attempts to perform a malicious action to information systems resources or the information itself
 
@@ -54,6 +52,7 @@ A security service is a capability that supports one or more of the security req
 - *Availability service* is one that protect a system to ensure its availability
 
 **List and briefly define categories of security mechanisms:**  
+*Security mechanism* are processes used to detect, prevent or recover from a security attach 
 - *Cryptographic algorithms* we can distinguish between reversible (E and D) and irreversible (only E) cryptographic mechanisms
 - *Data integrity* are a variety of mechanisms used to be assure the integrity of a data unit or streams of data unit
 - *Digital signature* data append to, or a cryptographic transformation of, a data unit that allow a recipient of the data to prove the source and integrity of the data sent 
