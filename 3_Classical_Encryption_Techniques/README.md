@@ -5,10 +5,6 @@
 - Substitution Techniques
 - Transposition Techniques
 
-**How can an attack determine the length of the keyword used in the Vigenère cipher?**
-**What is a transposition cipher?**
-**What are the drawbacks of Steganography?**
-
 ### Symmetric Cipher Model
 
 **What are the key terms that we need to know to be able to talk about cryptography?**  
