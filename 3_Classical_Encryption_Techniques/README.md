@@ -177,7 +177,7 @@ A pure transposition cipher is easily recognized because it has the same letter 
 The transposition cipher can be made significantly more secure by performing more than one stage of transposition.
 
 **What are the drawbacks of Steganography?**  
-Steganography is the art of hiding information in plain sight, by embedding information inside another file using specific patterns. But it has some drawbacks:  
+Steganography is the art of hiding information in plain sight, by embedding information inside another file using specific encoding patterns. However is not a silver bullet, it has some drawbacks, which are:  
 1. Only *small amount of data* can be hidden relative to the size of the cover, trying to hide to much data distorts the cover file making easier to detect
 2. Vulnerable to specialized algorithms that can detect hidden data 
 3. Operation performed on the cover file can easily destroy or alter the embedded message
